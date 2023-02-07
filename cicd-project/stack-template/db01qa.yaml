@@ -4,7 +4,7 @@ Parameters:
     Type: String
     Default: app01qa
   MyIP:
-    Type: String
+    Type: String 
   KeyName: 
     Type: String
   InstanceType:                                        

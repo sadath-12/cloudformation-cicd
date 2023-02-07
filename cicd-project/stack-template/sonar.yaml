@@ -207,7 +207,7 @@ Resources:
       GroupId: 
         Fn::GetAtt:
         - sonarSG
-        - GroupId
+        - GroupId 
       IpProtocol: -1
       SourceSecurityGroupId:
         Fn::ImportValue:
